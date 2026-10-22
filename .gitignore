@@ -1,0 +1,16 @@
+# Installed dependencies and generated build output
+node_modules/
+dist/
+.vite/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.local
+
+# Logs and operating-system files
+*.log
+.DS_Store
+Thumbs.db
+Desktop.ini
