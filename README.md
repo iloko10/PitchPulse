@@ -45,4 +45,8 @@ npm run preview
 
 ## Online πρόσβαση
 
-Η φιλοξενία του κώδικα στο GitHub μπορεί να ακολουθηθεί από ενεργοποίηση του GitHub Pages ή άλλη υπηρεσία hosting, για δοκιμή και από δεδομένα κινητού ή διαφορετικό Wi-Fi.
+[Άνοιξε το PitchPulse στο κινητό](https://iloko10.github.io/PitchPulse/).
+
+Το GitHub Pages φιλοξενεί την αυτόνομη έκδοση `football_tracker_dashboard_demo.html`. Το site ανοίγει από οποιοδήποτε δίκτυο και με τον υπολογιστή κλειστό.
+
+Οι αλλαγές στο συγκεκριμένο HTML δημοσιεύονται αυτόματα όταν ανεβαίνουν στο branch `main`, μέσω του workflow `.github/workflows/pages.yml`. Η αρχική σελίδα του site είναι το ίδιο demo, με όνομα `index.html` στο πακέτο δημοσίευσης.
